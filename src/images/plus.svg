@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>24px_c-add</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="wallet.on-Finance-App" transform="translate(-1098.000000, -39.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <g id="wallet.on---overview">
+                <g id="header" transform="translate(288.000000, 26.000000)">
+                    <g id="right-actions" transform="translate(799.000000, 0.000000)">
+                        <g id="add" transform="translate(0.000000, 2.000000)">
+                            <g id="24px_c-add" transform="translate(12.000000, 12.000000)">
+                                <line x1="8" y1="4.36363636" x2="8" y2="11.6363636" id="Path"></line>
+                                <line x1="11.6363636" y1="8" x2="4.36363636" y2="8" id="Path"></line>
+                                <circle id="Oval" cx="8" cy="8" r="8"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

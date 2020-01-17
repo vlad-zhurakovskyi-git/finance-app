@@ -1,0 +1,40 @@
+@import 'sidebarr';
+@import 'content';
+
+.app {
+  display: flex;
+}
+
+.container {
+  width: 1038px;
+  margin: 0 auto;
+}
+
+* {
+  outline: none;
+}
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+.btn__add {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #0FB269;
+  box-shadow: 0 9px 14px -10px rgba(0,0,0,0.50);
+  border-radius: 14px;
+}

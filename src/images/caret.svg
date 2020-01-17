@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="5px" viewBox="0 0 11 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="wallet.on-Finance-App" transform="translate(-1316.000000, -46.000000)" stroke="#212145">
+            <g id="wallet.on---overview">
+                <g id="header" transform="translate(288.000000, 26.000000)">
+                    <g id="right-actions" transform="translate(799.000000, 0.000000)">
+                        <polyline id="Path" points="230 20.5 234.5 25 239 20.5"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

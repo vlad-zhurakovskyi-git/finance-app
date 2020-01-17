@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>16px_block-left-collapse</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.799999952" stroke-linecap="round" stroke-linejoin="round">
+        <g id="wallet.on-Finance-App" transform="translate(-216.000000, -822.000000)" stroke="#9191AF">
+            <g id="wallet.on---overview">
+                <g id="sidebar">
+                    <g id="16px_block-left-collapse" transform="translate(216.000000, 822.500000)">
+                        <line x1="8.5" y1="7.5" x2="0.5" y2="7.5" id="Path"></line>
+                        <polyline id="Path" points="4.5 3.5 0.5 7.5 4.5 11.5"></polyline>
+                        <rect id="Rectangle" transform="translate(13.500000, 7.500000) rotate(-180.000000) translate(-13.500000, -7.500000) " x="11.5" y="0.5" width="4" height="14"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

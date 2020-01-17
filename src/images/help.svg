@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>24px_f-comment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="wallet.on-Finance-App" transform="translate(-35.000000, -822.000000)" stroke="#9191AF" stroke-width="1.5">
+            <g id="wallet.on---overview">
+                <g id="sidebar">
+                    <g id="help-btn" transform="translate(24.000000, 816.000000)">
+                        <g id="24px_f-comment" transform="translate(12.000000, 7.500000)">
+                            <path d="M12.3454545,9.41818182 C13.3636364,8.4 14,7.12727273 14,5.72727273 C14,2.54545455 10.8818182,0 7,0 C3.11818182,0 0,2.54545455 0,5.72727273 C0,8.90909091 3.11818182,11.4545455 7,11.4545455 C7.7,11.4545455 8.33636364,11.3909091 8.97272727,11.2 L12.7272727,12.7272727 L12.3454545,9.41818182 Z" id="Path"></path>
+                            <line x1="4.45454545" y1="4.45454545" x2="9.54545455" y2="4.45454545" id="Path"></line>
+                            <line x1="4.45454545" y1="7" x2="7.63636364" y2="7" id="Path"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

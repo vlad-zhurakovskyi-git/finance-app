@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>24px_progress</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.799999952">
+        <g id="wallet.on-Finance-App" transform="translate(-48.000000, -291.000000)" stroke="#9191AF" stroke-width="2">
+            <g id="wallet.on---overview">
+                <g id="sidebar">
+                    <g id="menu" transform="translate(0.000000, 96.000000)">
+                        <g id="History" transform="translate(49.000000, 194.000000)">
+                            <g id="24px_progress" transform="translate(0.000000, 2.000000)">
+                                <path d="M16,8 C16,12.4184 12.4184,16 8,16 C3.5816,16 0,12.4184 0,8 C0,3.5816 3.5816,0 8,0 C11.1672,0 13.904,1.84 15.2008,4.5096" id="Path"></path>
+                                <polyline id="Path" stroke-linecap="square" points="16 1 15.5986489 5 12 4.31991786"></polyline>
+                                <polyline id="Path" stroke-linecap="square" points="8 4 8 8 4 8"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

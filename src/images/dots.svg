@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="4px" viewBox="0 0 18 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>dots-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="wallet.on-Finance-App" transform="translate(-568.000000, -174.000000)" fill="#9191AF">
+            <g id="wallet.on---overview">
+                <g id="Balances" transform="translate(288.000000, 96.000000)">
+                    <g id="card" transform="translate(0.000000, 62.000000)">
+                        <g id="dots-icon" transform="translate(280.000000, 16.000000)">
+                            <circle id="Oval" cx="16" cy="2" r="2"></circle>
+                            <circle id="Oval" cx="9" cy="2" r="2"></circle>
+                            <circle id="Oval" cx="2" cy="2" r="2"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
